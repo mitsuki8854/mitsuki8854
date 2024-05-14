@@ -12,11 +12,14 @@
 </p>
 
 ## 結果
+ADとCNに対する寄与度が大きい特徴量上位10個のSHAP値のプロットを以下に示す。
 <p align="center">
   <a href="./Interpretability.png">
     <img width="600px" src="./Interpretability.png" />
   </a>
 </p>
+
+図より, 扁桃体(Amyg)の縮小, 嗅内領域(ENT)の縮小, 脳室(LV_Inferior)の拡大, 海馬(Hippo)の縮小というアルツハイマー病患者に見られる特徴を考慮し, ADとCNを識別していることが確認できた.
 
 # 作成したwebサイト
 webサイトリンク
