@@ -12,6 +12,10 @@
 </p>
 
 ## 結果
+
+| accuracy  | macro f1 |
+| 0.895 | 0.883 |
+
 ADとCNに対する寄与度が大きい特徴量上位10個のSHAP値のプロットを以下に示す.
 <p align="center">
   <a href="./Interpretability.png">
