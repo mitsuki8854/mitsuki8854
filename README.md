@@ -14,7 +14,7 @@
 ## 結果
 <p align="center">
   <a href="./Interpretability.png">
-    <img width="800px" src="./Interpretability.png" />
+    <img width="600px" src="./Interpretability.png" />
   </a>
 </p>
 
