@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="./Proposed Method.png">
-    <img width="300px" src="./Proposed Method.png" />
+    <img width="1000px" src="./Proposed Method.png" />
   </a>
 </p>
 
